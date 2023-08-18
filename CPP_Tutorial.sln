@@ -27,6 +27,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_10_Structures_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_11_Structures_1", "CPP_Tutorial_11_Structures_1\CPP_Tutorial_11_Structures_1.vcxproj", "{F0692F32-C0C6-4292-9C66-532E0CC2E528}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_04_Fir_Base", "CPP_Tutorial_04_Fir_Base\CPP_Tutorial_04_Fir_Base.vcxproj", "{9390E9E6-931C-46B7-993A-CE36F49748C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_04_Fir_Solution", "CPP_Tutorial_04_Fir_Solution\CPP_Tutorial_04_Fir_Solution.vcxproj", "{15F0FC31-8407-46DE-8543-E1E395535656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -109,6 +113,22 @@ Global
 		{F0692F32-C0C6-4292-9C66-532E0CC2E528}.Release|x64.Build.0 = Release|x64
 		{F0692F32-C0C6-4292-9C66-532E0CC2E528}.Release|x86.ActiveCfg = Release|Win32
 		{F0692F32-C0C6-4292-9C66-532E0CC2E528}.Release|x86.Build.0 = Release|Win32
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Debug|x64.ActiveCfg = Debug|x64
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Debug|x64.Build.0 = Debug|x64
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Debug|x86.Build.0 = Debug|Win32
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Release|x64.ActiveCfg = Release|x64
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Release|x64.Build.0 = Release|x64
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Release|x86.ActiveCfg = Release|Win32
+		{9390E9E6-931C-46B7-993A-CE36F49748C9}.Release|x86.Build.0 = Release|Win32
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Debug|x64.ActiveCfg = Debug|x64
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Debug|x64.Build.0 = Debug|x64
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Debug|x86.ActiveCfg = Debug|Win32
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Debug|x86.Build.0 = Debug|Win32
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Release|x64.ActiveCfg = Release|x64
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Release|x64.Build.0 = Release|x64
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Release|x86.ActiveCfg = Release|Win32
+		{15F0FC31-8407-46DE-8543-E1E395535656}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
