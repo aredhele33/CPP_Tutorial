@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_04_Fir_Solutio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_12_Constructors", "CPP_Tutorial_12_Constructors\CPP_Tutorial_12_Constructors.vcxproj", "{0B114FA8-A837-4E60-A690-9389230CCC31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Tutorial_13_Destructor", "CPP_Tutorial_13_Destructor\CPP_Tutorial_13_Destructor.vcxproj", "{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -139,6 +141,14 @@ Global
 		{0B114FA8-A837-4E60-A690-9389230CCC31}.Release|x64.Build.0 = Release|x64
 		{0B114FA8-A837-4E60-A690-9389230CCC31}.Release|x86.ActiveCfg = Release|Win32
 		{0B114FA8-A837-4E60-A690-9389230CCC31}.Release|x86.Build.0 = Release|Win32
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Debug|x64.ActiveCfg = Debug|x64
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Debug|x64.Build.0 = Debug|x64
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Debug|x86.Build.0 = Debug|Win32
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Release|x64.ActiveCfg = Release|x64
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Release|x64.Build.0 = Release|x64
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Release|x86.ActiveCfg = Release|Win32
+		{C8590D8B-E4DE-4A63-BB4C-23014B0A8AFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
